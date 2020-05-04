@@ -1,0 +1,4 @@
+Word Press Assignment: https://github.com/gazeez/Wordpress_Assignment
+
+
+PHP - API Assignment: https://github.com/gazeez/PHP-API-Assignment.git
